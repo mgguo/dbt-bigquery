@@ -94,3 +94,6 @@ venv/
 
 # vscode
 .vscode/
+
+# webhook test
+.hooks
